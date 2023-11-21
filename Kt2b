@@ -1,0 +1,2857 @@
+"","ID","AdmArea.x","Month.x","Year.x","TotalAmount.x","Suppliers.x","global_id.x","AdmArea.y","Month.y","Year.y","TotalAmount.y","Suppliers.y","global_id.y","AdmArea.x.x","Month.x.x","Year.x.x","TotalAmount.x.x","Suppliers.x.x","global_id.x.x","AdmArea.y.y","Month.y.y","Year.y.y","TotalAmount.y.y","Suppliers.y.y","global_id.y.y","AdmArea.x.x.x","Month.x.x.x","Year.x.x.x","TotalAmount.x.x.x","Suppliers.x.x.x","global_id.x.x.x","AdmArea.y.y.y","Month.y.y.y","Year.y.y.y","TotalAmount.y.y.y","Suppliers.y.y.y","global_id.y.y.y"
+"1","758","Северный административный округ","Январь","2021","1.86811610511E9","Supplier:ОАО «МОЭК»
+Amount:6.6489476168E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3
+
+Supplier:Мосводоканал
+Amount:2.1013547367E8
+
+Supplier:Ростелеком
+Amount:6.369432769E7
+
+Supplier:РСВО
+Amount:1.516111611E7
+
+Supplier:прочие
+Amount:3.8397878689E8
+
+Supplier:управляющие компании
+Amount:5.4164709459E8
+
+","1146149192",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","759","Северо-Восточный административный округ","Январь","2021","2.11658350112E9","Supplier:ОАО «МОЭК»
+Amount:7.4742375013E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.123745237E7
+
+Supplier:Мосводоканал
+Amount:2.3409231924E8
+
+Supplier:Ростелеком
+Amount:7.294812328E7
+
+Supplier:РСВО
+Amount:1.673444143E7
+
+Supplier:прочие
+Amount:4
+
+Supplier:управляющие компании
+Amount:6.5740686687E8
+
+","1146149194",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","760","Восточный административный округ","Январь","2021","2.26762542666E9","Supplier:ОАО «МОЭК»
+Amount:8.4958551487E8
+
+Supplier:Мосэнергосбыт
+Amount:2.272304843E7
+
+Supplier:Газпром межрегионгаз Москва
+Amount:4.379513665E7
+
+Supplier:Мосводоканал
+Amount:2.5005689346E8
+
+Supplier:Ростелеком
+Amount:8.692918572E7
+
+Supplier:РСВО
+Amount:1.64186677E7
+
+Supplier:прочие
+Amount:3.7048656252E8
+
+Supplier:управляющие компании
+Amount:6.6647308823E8
+
+","1146149196",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","761","Юго-Восточный административный округ","Январь","2021","2.20526687133E9","Supplier:ОАО «МОЭК»
+Amount:6.6094001159E8
+
+Supplier:Мосэнергосбыт
+Amount:3.557523469E7
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.73453796E7
+
+Supplier:Мосводоканал
+Amount:2
+
+Supplier:Ростелеком
+Amount:4262052.61
+
+Supplier:РСВО
+Amount:1.477405482E7
+
+Supplier:прочие
+Amount:5.1860250665E8
+
+Supplier:управляющие компании
+Amount:7.7933164703E8
+
+","1146149199",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","762","Южный административный округ","Январь","2021","2.42362481993E9","Supplier:ОАО «МОЭК»
+Amount:8.8660425574E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3
+
+Supplier:Мосводоканал
+Amount:2.5189732406E8
+
+Supplier:Ростелеком
+Amount:9.193985578E7
+
+Supplier:РСВО
+Amount:1.932096484E7
+
+Supplier:прочие
+Amount:4.7015425365E8
+
+Supplier:управляющие компании
+Amount:7.1286655053E8
+
+","1146149218",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","763","Юго-Западный административный округ","Январь","2021","2.25945737669E9","Supplier:ОАО «МОЭК»
+Amount:8.4739381419E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:1.970359427E7
+
+Supplier:Мосводоканал
+Amount:2.2572462148E8
+
+Supplier:Ростелеком
+Amount:8.393381006E7
+
+Supplier:РСВО
+Amount:1.718948575E7
+
+Supplier:прочие
+Amount:4.3473275337E8
+
+Supplier:управляющие компании
+Amount:6.6380130099E8
+
+","1146149220",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","764","Западный административный округ","Январь","2021","1.87316396812E9","Supplier:ОАО «МОЭК»
+Amount:6.474068194E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.351703111E7
+
+Supplier:Мосводоканал
+Amount:1.9978447414E8
+
+Supplier:Ростелеком
+Amount:6.874278077E7
+
+Supplier:РСВО
+Amount:1.428287323E7
+
+Supplier:прочие
+Amount:3.8977080649E8
+
+Supplier:управляющие компании
+Amount:5.7402080956E8
+
+","1146149222",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","770","Северный административный округ","Февраль","2021","1.89856552983E9","Supplier:ОАО «МОЭК»
+Amount:6.6137563397E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3
+
+Supplier:Мосводоканал
+Amount:2.1078601369E8
+
+Supplier:Ростелеком
+Amount:6.370912795E7
+
+Supplier:РСВО
+Amount:1.509886378E7
+
+Supplier:прочие
+Amount:3.7438968584E8
+
+Supplier:управляющие компании
+Amount:5.4248978387E8
+
+","1146149256",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","771","Северо-Восточный административный округ","Февраль","2021","2.1308795662E9","Supplier:ОАО «МОЭК»
+Amount:7.2234197256E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.122301089E7
+
+Supplier:Мосводоканал
+Amount:2.345756817E8
+
+Supplier:Ростелеком
+Amount:7.292855102E7
+
+Supplier:РСВО
+Amount:1.664913659E7
+
+Supplier:прочие
+Amount:4
+
+Supplier:управляющие компании
+Amount:6.5476505978E8
+
+","1146149257",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","772","Восточный административный округ","Февраль","2021","2.28718884797E9","Supplier:ОАО «МОЭК»
+Amount:8.2969696074E8
+
+Supplier:Мосэнергосбыт
+Amount:2.219627451E7
+
+Supplier:Газпром межрегионгаз Москва
+Amount:4.374835325E7
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.5237484715E8
+
+Supplier:Ростелеком
+Amount:8.687500981E7
+
+Supplier:РСВО
+Amount:1.630180386E7
+
+Supplier:прочие
+Amount:3.725768181E8
+
+Supplier:управляющие компании
+Amount:6.6341878055E8
+
+","1146149260",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","773","Юго-Восточный административный округ","Февраль","2021","2.22744855599E9","Supplier:ОАО «МОЭК»
+Amount:646956671
+
+Supplier:Мосэнергосбыт
+Amount:3.436655773E7
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.734348761E7
+
+Supplier:Мосводоканал
+Amount:1.9990414004E8
+
+Supplier:Ростелеком
+Amount:4251274.52
+
+Supplier:РСВО
+Amount:1.445950249E7
+
+Supplier:прочие
+Amount:5.157177741E8
+
+Supplier:управляющие компании
+Amount:7.844491485E8
+
+","1146149263",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","774","Южный административный округ","Февраль","2021","2.45137358753E9","Supplier:ОАО «МОЭК»
+Amount:8.6745715015E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3
+
+Supplier:Мосводоканал
+Amount:2.5477628366E8
+
+Supplier:Ростелеком
+Amount:9.18571549E7
+
+Supplier:РСВО
+Amount:1.921487132E7
+
+Supplier:прочие
+Amount:4.7582696393E8
+
+Supplier:управляющие компании
+Amount:7.1212943464E8
+
+","1146149265",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","775","Юго-Западный административный округ","Февраль","2021","2.26371666119E9","Supplier:ОАО «МОЭК»
+Amount:8.1584827275E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:1.970904012E7
+
+Supplier:Мосводоканал
+Amount:2.2617097456E8
+
+Supplier:Ростелеком
+Amount:8.413219141E7
+
+Supplier:РСВО
+Amount:1.714593951E7
+
+Supplier:прочие
+Amount:4.3519945159E8
+
+Supplier:управляющие компании
+Amount:6.6551079125E8
+
+","1146149301",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","776","Западный административный округ","Февраль","2021","1.89218920609E9","Supplier:ОАО «МОЭК»
+Amount:6.2682197078E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.339952683E7
+
+Supplier:Мосводоканал
+Amount:2
+
+Supplier:Ростелеком
+Amount:6.853298601E7
+
+Supplier:РСВО
+Amount:1.420710591E7
+
+Supplier:прочие
+Amount:3.8435669749E8
+
+Supplier:управляющие компании
+Amount:5.7243619243E8
+
+","1146149331",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","782","Северный административный округ","Март","2021","1.89102676946E9","Supplier:ОАО «МОЭК»
+Amount:6.5512391603E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3
+
+Supplier:Мосводоканал
+Amount:2
+
+Supplier:Ростелеком
+Amount:6.367572248E7
+
+Supplier:РСВО
+Amount:1.503938597E7
+
+Supplier:прочие
+Amount:3.7625502309E8
+
+Supplier:управляющие компании
+Amount:5.4256335283E8
+
+","1146150185",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","783","Северо-Восточный административный округ","Март","2021","2.13552761776E9","Supplier:ОАО «МОЭК»
+Amount:7.2866936077E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.128218868E7
+
+Supplier:Мосводоканал
+Amount:2.3280384851E8
+
+Supplier:Ростелеком
+Amount:7.277206524E7
+
+Supplier:РСВО
+Amount:1.657730937E7
+
+Supplier:прочие
+Amount:4
+
+Supplier:управляющие компании
+Amount:6.5471958018E8
+
+","1146150220",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17","784","Восточный административный округ","Март","2021","2.28057764547E9","Supplier:ОАО «МОЭК»
+Amount:8.2967138561E8
+
+Supplier:Мосэнергосбыт
+Amount:2.231368481E7
+
+Supplier:Газпром межрегионгаз Москва
+Amount:4.349227463E7
+
+Supplier:Мосводоканал
+Amount:2.4799570897E8
+
+Supplier:Ростелеком
+Amount:8.638135288E7
+
+Supplier:РСВО
+Amount:1.614347645E7
+
+Supplier:прочие
+Amount:3.7214065405E8
+
+Supplier:управляющие компании
+Amount:6.6243910807E8
+
+","1146150288",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","785","Юго-Восточный административный округ","Март","2021","2.23038537194E9","Supplier:ОАО «МОЭК»
+Amount:6.5264562441E8
+
+Supplier:Мосэнергосбыт
+Amount:3.736627689E7
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.735395667E7
+
+Supplier:Мосводоканал
+Amount:1.9821163529E8
+
+Supplier:Ростелеком
+Amount:4237624.37
+
+Supplier:РСВО
+Amount:1.447767586E7
+
+Supplier:прочие
+Amount:5.2129836538E8
+
+Supplier:управляющие компании
+Amount:7.7479421307E8
+
+","1146150394",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","786","Южный административный округ","Март","2021","2.46901069062E9","Supplier:ОАО «МОЭК»
+Amount:8.8139763288E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3
+
+Supplier:Мосводоканал
+Amount:2.525087666E8
+
+Supplier:Ростелеком
+Amount:9.182007807E7
+
+Supplier:РСВО
+Amount:1.914824795E7
+
+Supplier:прочие
+Amount:4.7898795846E8
+
+Supplier:управляющие компании
+Amount:7.1497543043E8
+
+","1146150482",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","787","Юго-Западный административный округ","Март","2021","2.27575893593E9","Supplier:ОАО «МОЭК»
+Amount:8.3014912382E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:1.974483343E7
+
+Supplier:Мосводоканал
+Amount:2.243723482E8
+
+Supplier:Ростелеком
+Amount:8.410627368E7
+
+Supplier:РСВО
+Amount:1.706532523E7
+
+Supplier:прочие
+Amount:4.338863581E8
+
+Supplier:управляющие компании
+Amount:6.6643467347E8
+
+","1146150585",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","788","Западный административный округ","Март","2021","1.90276942322E9","Supplier:ОАО «МОЭК»
+Amount:6.3444175589E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.339360776E7
+
+Supplier:Мосводоканал
+Amount:2
+
+Supplier:Ростелеком
+Amount:6.847575655E7
+
+Supplier:РСВО
+Amount:1.417936277E7
+
+Supplier:прочие
+Amount:3.8828903032E8
+
+Supplier:управляющие компании
+Amount:5.732301556E8
+
+","1146150654",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","794","Северный административный округ","Апрель","2021","1.9008900575E9","Supplier:ОАО «МОЭК»
+Amount:6.5084254725E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3
+
+Supplier:Мосводоканал
+Amount:2
+
+Supplier:Ростелеком
+Amount:6.355109339E7
+
+Supplier:РСВО
+Amount:1.557415805E7
+
+Supplier:прочие
+Amount:3.9242618091E8
+
+Supplier:управляющие компании
+Amount:5.4345455048E8
+
+","1146151568",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","795","Северо-Восточный административный округ","Апрель","2021","2.14541078138E9","Supplier:ОАО «МОЭК»
+Amount:7.2634106759E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.124692679E7
+
+Supplier:Мосводоканал
+Amount:2.2762451093E8
+
+Supplier:Ростелеком
+Amount:7.277857285E7
+
+Supplier:РСВО
+Amount:1.713683774E7
+
+Supplier:прочие
+Amount:4.2460067647E8
+
+Supplier:управляющие компании
+Amount:6.5568218901E8
+
+","1146151630",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","796","Восточный административный округ","Апрель","2021","2.2752519377E9","Supplier:ОАО «МОЭК»
+Amount:8.2561800017E8
+
+Supplier:Мосэнергосбыт
+Amount:2
+
+Supplier:Газпром межрегионгаз Москва
+Amount:4.360914277E7
+
+Supplier:Мосводоканал
+Amount:2.4168400359E8
+
+Supplier:Ростелеком
+Amount:8.652067947E7
+
+Supplier:РСВО
+Amount:1.674256576E7
+
+Supplier:прочие
+Amount:3.8048047738E8
+
+Supplier:управляющие компании
+Amount:6.5996991165E8
+
+","1146151712",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","797","Юго-Восточный административный округ","Апрель","2021","2.21624438067E9","Supplier:ОАО «МОЭК»
+Amount:6.4418374944E8
+
+Supplier:Мосэнергосбыт
+Amount:3
+
+Supplier:Газпром межрегионгаз Москва
+Amount:27359825
+
+Supplier:Мосводоканал
+Amount:1.9043576652E8
+
+Supplier:Ростелеком
+Amount:4243926
+
+Supplier:РСВО
+Amount:1.499134126E7
+
+Supplier:прочие
+Amount:5.2808532817E8
+
+Supplier:управляющие компании
+Amount:7.7609412174E8
+
+","1146151791",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","798","Южный административный округ","Апрель","2021","2.45049563095E9","Supplier:ОАО «МОЭК»
+Amount:8.6444051363E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3
+
+Supplier:Мосводоканал
+Amount:2.4152907922E8
+
+Supplier:Ростелеком
+Amount:9.155760247E7
+
+Supplier:РСВО
+Amount:1.975271235E7
+
+Supplier:прочие
+Amount:4.9145738986E8
+
+Supplier:управляющие компании
+Amount:7.1167295276E8
+
+","1146152008",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","799","Юго-Западный административный округ","Апрель","2021","2.28404894092E9","Supplier:ОАО «МОЭК»
+Amount:8.3186440475E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:1.976311489E7
+
+Supplier:Мосводоканал
+Amount:2.2099435459E8
+
+Supplier:Ростелеком
+Amount:8.410664964E7
+
+Supplier:РСВО
+Amount:1.765298192E7
+
+Supplier:прочие
+Amount:4.4012075366E8
+
+Supplier:управляющие компании
+Amount:6.6954668147E8
+
+","1146152078",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","800","Западный административный округ","Апрель","2021","1.89959133047E9","Supplier:ОАО «МОЭК»
+Amount:6.2959298435E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.33561193E7
+
+Supplier:Мосводоканал
+Amount:1.9528128016E8
+
+Supplier:Ростелеком
+Amount:6.838536937E7
+
+Supplier:РСВО
+Amount:1.46825983E7
+
+Supplier:прочие
+Amount:3.9551523583E8
+
+Supplier:управляющие компании
+Amount:5.7277774316E8
+
+","1146153658",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","806","Северный административный округ","Май","2021","1.89362296406E9","Supplier:ОАО «МОЭК»
+Amount:6.5343533456E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3.126796286E7
+
+Supplier:Мосводоканал
+Amount:2
+
+Supplier:Ростелеком
+Amount:6.328219716E7
+
+Supplier:РСВО
+Amount:1.545993196E7
+
+Supplier:прочие
+Amount:3.7826321766E8
+
+Supplier:управляющие компании
+Amount:5.4298492503E8
+
+","1146154361",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","807","Северо-Восточный административный округ","Май","2021","2.14959484699E9","Supplier:ОАО «МОЭК»
+Amount:7.3146046733E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.127170535E7
+
+Supplier:Мосводоканал
+Amount:2.3492977394E8
+
+Supplier:Ростелеком
+Amount:7.269434745E7
+
+Supplier:РСВО
+Amount:1.713114615E7
+
+Supplier:прочие
+Amount:4.1474245732E8
+
+Supplier:управляющие компании
+Amount:6.5736494945E8
+
+","1146154401",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","808","Восточный административный округ","Май","2021","2.28717899495E9","Supplier:ОАО «МОЭК»
+Amount:8.3111602847E8
+
+Supplier:Мосэнергосбыт
+Amount:2
+
+Supplier:Газпром межрегионгаз Москва
+Amount:4.349443116E7
+
+Supplier:Мосводоканал
+Amount:2.500433683E8
+
+Supplier:Ростелеком
+Amount:8.619671241E7
+
+Supplier:РСВО
+Amount:1.662408373E7
+
+Supplier:прочие
+Amount:3.7906688412E8
+
+Supplier:управляющие компании
+Amount:6.600877034E8
+
+","1146154442",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","809","Юго-Восточный административный округ","Май","2021","2.23580860527E9","Supplier:ОАО «МОЭК»
+Amount:6.5310799665E8
+
+Supplier:Мосэнергосбыт
+Amount:3.122064076E7
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.74131782E7
+
+Supplier:Мосводоканал
+Amount:1.9777293842E8
+
+Supplier:Ростелеком
+Amount:4224341.42
+
+Supplier:РСВО
+Amount:1.490424145E7
+
+Supplier:прочие
+Amount:5.2422472869E8
+
+Supplier:управляющие компании
+Amount:7.8294053968E8
+
+","1146154486",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","810","Южный административный округ","Май","2021","2.48660946822E9","Supplier:ОАО «МОЭК»
+Amount:8.7616312994E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3
+
+Supplier:Мосводоканал
+Amount:2.5558531403E8
+
+Supplier:Ростелеком
+Amount:9.149897663E7
+
+Supplier:РСВО
+Amount:1.966524762E7
+
+Supplier:прочие
+Amount:4.9940836493E8
+
+Supplier:управляющие компании
+Amount:7.1417102955E8
+
+","1146154533",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","811","Юго-Западный административный округ","Май","2021","2.30006008021E9","Supplier:ОАО «МОЭК»
+Amount:8.3746920801E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:1.978297369E7
+
+Supplier:Мосводоканал
+Amount:2.2999049371E8
+
+Supplier:Ростелеком
+Amount:8.39818465E7
+
+Supplier:РСВО
+Amount:1.757629857E7
+
+Supplier:прочие
+Amount:4.4225258434E8
+
+Supplier:управляющие компании
+Amount:6.6900667539E8
+
+","1146154592",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","812","Западный административный округ","Май","2021","1.90542954676E9","Supplier:ОАО «МОЭК»
+Amount:6.3200361528E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.339154746E7
+
+Supplier:Мосводоканал
+Amount:2
+
+Supplier:Ростелеком
+Amount:6.828364109E7
+
+Supplier:РСВО
+Amount:1.459224427E7
+
+Supplier:прочие
+Amount:3.8848939066E8
+
+Supplier:управляющие компании
+Amount:5.763453165E8
+
+","1146154661",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","818","Северный административный округ","Июнь","2021","1.87883550107E9","Supplier:ОАО «МОЭК»
+Amount:6.4089850388E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3
+
+Supplier:Мосводоканал
+Amount:206232026
+
+Supplier:Ростелеком
+Amount:6.339424199E7
+
+Supplier:РСВО
+Amount:1.545173835E7
+
+Supplier:прочие
+Amount:3.7852385708E8
+
+Supplier:управляющие компании
+Amount:5.434251548E8
+
+","1146176170",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","819","Северо-Восточный административный округ","Июнь","2021","2.14626993753E9","Supplier:ОАО «МОЭК»
+Amount:7.1447846943E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.131548388E7
+
+Supplier:Мосводоканал
+Amount:2.2963758984E8
+
+Supplier:Ростелеком
+Amount:7.259079706E7
+
+Supplier:РСВО
+Amount:1.700319834E7
+
+Supplier:прочие
+Amount:4.3769143993E8
+
+Supplier:управляющие компании
+Amount:6.5355295905E8
+
+","1146176182",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","820","Восточный административный округ","Июнь","2021","2.27715443058E9","Supplier:ОАО «МОЭК»
+Amount:8.2277055699E8
+
+Supplier:Мосэнергосбыт
+Amount:2
+
+Supplier:Газпром межрегионгаз Москва
+Amount:4.362958496E7
+
+Supplier:Мосводоканал
+Amount:2.4425851481E8
+
+Supplier:Ростелеком
+Amount:8.617162774E7
+
+Supplier:РСВО
+Amount:1.654196829E7
+
+Supplier:прочие
+Amount:3.8665610393E8
+
+Supplier:управляющие компании
+Amount:6.5691701031E8
+
+","1146176188",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","821","Юго-Восточный административный округ","Июнь","2021","2.21499275735E9","Supplier:ОАО «МОЭК»
+Amount:6.3584639702E8
+
+Supplier:Мосэнергосбыт
+Amount:3
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.743041113E7
+
+Supplier:Мосводоканал
+Amount:1.9416481998E8
+
+Supplier:Ростелеком
+Amount:4213407.25
+
+Supplier:РСВО
+Amount:1.485976889E7
+
+Supplier:прочие
+Amount:5.3125733507E8
+
+Supplier:управляющие компании
+Amount:7.7639097752E8
+
+","1146176189",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","822","Южный административный округ","Июнь","2021","2.48219205764E9","Supplier:ОАО «МОЭК»
+Amount:8.5463915227E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:581302.68
+
+Supplier:Мосводоканал
+Amount:3
+
+Supplier:Ростелеком
+Amount:2.5289676648E8
+
+Supplier:РСВО
+Amount:9.148705532E7
+
+Supplier:прочие
+Amount:1.2196906805E8
+
+Supplier:управляющие компании
+Amount:9.9375569121E8
+
+","1146176190",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","823","Юго-Западный административный округ","Июнь","2021","2.27993165469E9","Supplier:ОАО «МОЭК»
+Amount:1.3670158905E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:8.2283946862E8
+
+Supplier:Мосводоканал
+Amount:1.979346353E7
+
+Supplier:Ростелеком
+Amount:2.2869664423E8
+
+Supplier:РСВО
+Amount:8.395084587E7
+
+Supplier:прочие
+Amount:1.2690885345E8
+
+Supplier:управляющие компании
+Amount:9
+
+","1146176191",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","824","Западный административный округ","Июнь","2021","1.8948045453E9","Supplier:ОАО «МОЭК»
+Amount:9.383966311E7
+
+Supplier:Газпром межрегионгаз Москва
+Amount:6.1605895073E8
+
+Supplier:Мосводоканал
+Amount:2.337234889E7
+
+Supplier:Ростелеком
+Amount:1.991694189E8
+
+Supplier:РСВО
+Amount:6.824175255E7
+
+Supplier:прочие
+Amount:1.2091193195E8
+
+Supplier:управляющие компании
+Amount:8
+
+","1146176192",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","830","Северный административный округ","Июль","2021","1.86884428801E9","Supplier:ОАО «МОЭК»
+Amount:6.2682890031E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3
+
+Supplier:Мосводоканал
+Amount:2
+
+Supplier:Ростелеком
+Amount:6.335549246E7
+
+Supplier:РСВО
+Amount:1.54046716E7
+
+Supplier:прочие
+Amount:3.8796610111E8
+
+Supplier:управляющие компании
+Amount:5.4140103763E8
+
+","1146176230",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","832","Восточный административный округ","Июль","2021","2.25460550178E9","Supplier:ОАО «МОЭК»
+Amount:7.9961554606E8
+
+Supplier:Мосэнергосбыт
+Amount:2
+
+Supplier:Газпром межрегионгаз Москва
+Amount:4.377871902E7
+
+Supplier:Мосводоканал
+Amount:2.4494359207E8
+
+Supplier:Ростелеком
+Amount:8.622827915E7
+
+Supplier:РСВО
+Amount:1.652210383E7
+
+Supplier:прочие
+Amount:3.8718636024E8
+
+Supplier:управляющие компании
+Amount:6.5601461029E8
+
+","1146176233",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","833","Юго-Восточный административный округ","Июль","2021","2.19782216828E9","Supplier:ОАО «МОЭК»
+Amount:6.229043123E8
+
+Supplier:Мосэнергосбыт
+Amount:3.320968791E7
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.74847961E7
+
+Supplier:Мосводоканал
+Amount:1.9040635575E8
+
+Supplier:Ростелеком
+Amount:4204934.5
+
+Supplier:РСВО
+Amount:1.482652763E7
+
+Supplier:прочие
+Amount:5.304997737E8
+
+Supplier:управляющие компании
+Amount:7.7428578039E8
+
+","1146176238",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","834","Южный административный округ","Июль","2021","2.42427903451E9","Supplier:ОАО «МОЭК»
+Amount:8.2805445064E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:30117261
+
+Supplier:Мосводоканал
+Amount:2.4528578534E8
+
+Supplier:Ростелеком
+Amount:9.144837806E7
+
+Supplier:РСВО
+Amount:1.95805083E7
+
+Supplier:прочие
+Amount:5
+
+Supplier:управляющие компании
+Amount:7
+
+","1146176259",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","835","Юго-Западный административный округ","Июль","2021","2.26753251221E9","Supplier:ОАО «МОЭК»
+Amount:8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:1.978869449E7
+
+Supplier:Мосводоканал
+Amount:2.2392206839E8
+
+Supplier:Ростелеком
+Amount:8.388121639E7
+
+Supplier:РСВО
+Amount:1.74980101E7
+
+Supplier:прочие
+Amount:4.4933779737E8
+
+Supplier:управляющие компании
+Amount:6.6776522524E8
+
+","1146176297",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","836","Западный административный округ","Июль","2021","1.85989549458E9","Supplier:ОАО «МОЭК»
+Amount:5.9935121744E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.334456716E7
+
+Supplier:Мосводоканал
+Amount:1.9442179153E8
+
+Supplier:Ростелеком
+Amount:6.818458245E7
+
+Supplier:РСВО
+Amount:1.449150393E7
+
+Supplier:прочие
+Amount:3.9239424349E8
+
+Supplier:управляющие компании
+Amount:5.6770758858E8
+
+","1146176335",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","842","Северный административный округ","Август","2021","1.83881055573E9","Supplier:ОАО «МОЭК»
+Amount:5.988337044E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3.277751364E7
+
+Supplier:Мосводоканал
+Amount:2
+
+Supplier:Ростелеком
+Amount:6.328890305E7
+
+Supplier:РСВО
+Amount:1.536742937E7
+
+Supplier:прочие
+Amount:3.8406461718E8
+
+Supplier:управляющие компании
+Amount:5.4027538259E8
+
+","1146176543",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","844","Восточный административный округ","Август","2021","2.21991583392E9","Supplier:ОАО «МОЭК»
+Amount:7.6602088252E8
+
+Supplier:Мосэнергосбыт
+Amount:2
+
+Supplier:Газпром межрегионгаз Москва
+Amount:4.633239934E7
+
+Supplier:Мосводоканал
+Amount:2.4022048808E8
+
+Supplier:Ростелеком
+Amount:8.59776148E7
+
+Supplier:РСВО
+Amount:1.642709211E7
+
+Supplier:прочие
+Amount:3.8614783066E8
+
+Supplier:управляющие компании
+Amount:6.577907015E8
+
+","1146176600",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","845","Юго-Восточный административный округ","Август","2021","2.15618798025E9","Supplier:ОАО «МОЭК»
+Amount:5.921609832E8
+
+Supplier:Мосэнергосбыт
+Amount:3
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.909486642E7
+
+Supplier:Мосводоканал
+Amount:1.9132976181E8
+
+Supplier:Ростелеком
+Amount:4204961.49
+
+Supplier:РСВО
+Amount:1.478348591E7
+
+Supplier:прочие
+Amount:5.263214126E8
+
+Supplier:управляющие компании
+Amount:7.6738488288E8
+
+","1146176646",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","846","Южный административный округ","Август","2021","2.36462013834E9","Supplier:ОАО «МОЭК»
+Amount:7.7740416903E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3.203695559E7
+
+Supplier:Мосводоканал
+Amount:2.4501226876E8
+
+Supplier:Ростелеком
+Amount:9.136012873E7
+
+Supplier:РСВО
+Amount:1.958934206E7
+
+Supplier:прочие
+Amount:4.9619772719E8
+
+Supplier:управляющие компании
+Amount:7
+
+","1146176677",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","847","Юго-Западный административный округ","Август","2021","2.22922056719E9","Supplier:ОАО «МОЭК»
+Amount:7.7104609585E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.10097599E7
+
+Supplier:Мосводоканал
+Amount:2.238772475E8
+
+Supplier:Ростелеком
+Amount:8.377571198E7
+
+Supplier:РСВО
+Amount:1.746489401E7
+
+Supplier:прочие
+Amount:4.4517998579E8
+
+Supplier:управляющие компании
+Amount:6.6686687216E8
+
+","1146176695",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","848","Западный административный округ","Август","2021","1.84036416661E9","Supplier:ОАО «МОЭК»
+Amount:5.7637791415E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.472171862E7
+
+Supplier:Мосводоканал
+Amount:1.9639350581E8
+
+Supplier:Ростелеком
+Amount:6.814023108E7
+
+Supplier:РСВО
+Amount:1.446117173E7
+
+Supplier:прочие
+Amount:3.9221957649E8
+
+Supplier:управляющие компании
+Amount:5.6805004873E8
+
+","1146176738",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","854","Северный административный округ","Сентябрь","2021","1.84176063326E9","Supplier:ОАО «МОЭК»
+Amount:5.9751093154E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3.18422746E7
+
+Supplier:Мосводоканал
+Amount:2
+
+Supplier:Ростелеком
+Amount:6.309862054E7
+
+Supplier:РСВО
+Amount:1.532232844E7
+
+Supplier:прочие
+Amount:3.9088365124E8
+
+Supplier:управляющие компании
+Amount:5.4039132197E8
+
+","1263035763",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","856","Восточный административный округ","Сентябрь","2021","2.21719727021E9","Supplier:ОАО «МОЭК»
+Amount:7.6705478536E8
+
+Supplier:Мосэнергосбыт
+Amount:2
+
+Supplier:Газпром межрегионгаз Москва
+Amount:4.497615434E7
+
+Supplier:Мосводоканал
+Amount:2.3933450317E8
+
+Supplier:Ростелеком
+Amount:8.590577352E7
+
+Supplier:РСВО
+Amount:1.637001986E7
+
+Supplier:прочие
+Amount:3.9040992228E8
+
+Supplier:управляющие компании
+Amount:6.5253999015E8
+
+","1263036094",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","857","Юго-Восточный административный округ","Сентябрь","2021","2.16316973682E9","Supplier:ОАО «МОЭК»
+Amount:5.910143785E8
+
+Supplier:Мосэнергосбыт
+Amount:3.14979923E7
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.826400099E7
+
+Supplier:Мосводоканал
+Amount:1.9022836994E8
+
+Supplier:Ростелеком
+Amount:4193929.63
+
+Supplier:РСВО
+Amount:1.472251144E7
+
+Supplier:прочие
+Amount:5.3564527206E8
+
+Supplier:управляющие компании
+Amount:7.6760328196E8
+
+","1263036485",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","858","Южный административный округ","Сентябрь","2021","2.3738010392E9","Supplier:ОАО «МОЭК»
+Amount:7.8262371548E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3.109632416E7
+
+Supplier:Мосводоканал
+Amount:2.4383730693E8
+
+Supplier:Ростелеком
+Amount:9.118651952E7
+
+Supplier:РСВО
+Amount:1.94514788E7
+
+Supplier:прочие
+Amount:5
+
+Supplier:управляющие компании
+Amount:7
+
+","1263036583",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","859","Юго-Западный административный округ","Сентябрь","2021","2.22830057925E9","Supplier:ОАО «МОЭК»
+Amount:7.698709902E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2
+
+Supplier:Мосводоканал
+Amount:2.2198650384E8
+
+Supplier:Ростелеком
+Amount:8.371169812E7
+
+Supplier:РСВО
+Amount:1.762176637E7
+
+Supplier:прочие
+Amount:4.4700634545E8
+
+Supplier:управляющие компании
+Amount:6.6772202151E8
+
+","1263036680",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","860","Западный административный округ","Сентябрь","2021","1.84528649761E9","Supplier:ОАО «МОЭК»
+Amount:5.8160959748E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.399244496E7
+
+Supplier:Мосводоканал
+Amount:1.9471431055E8
+
+Supplier:Ростелеком
+Amount:6.804483436E7
+
+Supplier:РСВО
+Amount:1.442834322E7
+
+Supplier:прочие
+Amount:3.920848645E8
+
+Supplier:управляющие компании
+Amount:5.7041210254E8
+
+","1263037430",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","866","Северный административный округ","Октябрь","2021","1.88794407703E9","Supplier:ОАО «МОЭК»
+Amount:6.3301939272E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3.182074874E7
+
+Supplier:Мосводоканал
+Amount:2.1147670328E8
+
+Supplier:Ростелеком
+Amount:6.315548675E7
+
+Supplier:РСВО
+Amount:1.525811621E7
+
+Supplier:прочие
+Amount:3.8903974604E8
+
+Supplier:управляющие компании
+Amount:5.4417388329E8
+
+","1263040106",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","867","Северо-Восточный административный округ","Октябрь","2021","2.11001717727E9","Supplier:ОАО «МОЭК»
+Amount:6.9428466478E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.184304785E7
+
+Supplier:Мосводоканал
+Amount:2.3297769303E8
+
+Supplier:Ростелеком
+Amount:7.218389014E7
+
+Supplier:РСВО
+Amount:1.678117618E7
+
+Supplier:прочие
+Amount:4.1724585333E8
+
+Supplier:управляющие компании
+Amount:6.5470085196E8
+
+","1263040288",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","868","Восточный административный округ","Октябрь","2021","2.27236992408E9","Supplier:ОАО «МОЭК»
+Amount:8.1069437558E8
+
+Supplier:Мосэнергосбыт
+Amount:2
+
+Supplier:Газпром межрегионгаз Москва
+Amount:4.510267033E7
+
+Supplier:Мосводоканал
+Amount:2.5239892203E8
+
+Supplier:Ростелеком
+Amount:8.595963984E7
+
+Supplier:РСВО
+Amount:1.635245562E7
+
+Supplier:прочие
+Amount:3.9351558977E8
+
+Supplier:управляющие компании
+Amount:6.4754204856E8
+
+","1263040578",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","869","Юго-Восточный административный округ","Октябрь","2021","2.2281294026E9","Supplier:ОАО «МОЭК»
+Amount:6.2242388093E8
+
+Supplier:Мосэнергосбыт
+Amount:3.16398396E7
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.827153209E7
+
+Supplier:Мосводоканал
+Amount:2
+
+Supplier:Ростелеком
+Amount:4152404.34
+
+Supplier:РСВО
+Amount:1.467556322E7
+
+Supplier:прочие
+Amount:5.4755034707E8
+
+Supplier:управляющие компании
+Amount:7.7937246429E8
+
+","1263040920",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","870","Южный административный округ","Октябрь","2021","2.43852785263E9","Supplier:ОАО «МОЭК»
+Amount:8.2964591894E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3.109603983E7
+
+Supplier:Мосводоканал
+Amount:2.5463273671E8
+
+Supplier:Ростелеком
+Amount:9.117053938E7
+
+Supplier:РСВО
+Amount:1.940138941E7
+
+Supplier:прочие
+Amount:5.1055303737E8
+
+Supplier:управляющие компании
+Amount:7
+
+","1263040997",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","871","Юго-Западный административный округ","Октябрь","2021","2.26976867593E9","Supplier:ОАО «МОЭК»
+Amount:8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2
+
+Supplier:Мосводоканал
+Amount:2.3235404615E8
+
+Supplier:Ростелеком
+Amount:8.362479382E7
+
+Supplier:РСВО
+Amount:1.742139085E7
+
+Supplier:прочие
+Amount:4.4296503484E8
+
+Supplier:управляющие компании
+Amount:6.6478904687E8
+
+","1263041069",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","872","Западный административный округ","Октябрь","2021","1.88006817891E9","Supplier:ОАО «МОЭК»
+Amount:6
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.398424458E7
+
+Supplier:Мосводоканал
+Amount:2
+
+Supplier:Ростелеком
+Amount:6.79681514E7
+
+Supplier:РСВО
+Amount:1.435776686E7
+
+Supplier:прочие
+Amount:3.9212913544E8
+
+Supplier:управляющие компании
+Amount:5.7271171048E8
+
+","1263041156",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","879","Северный административный округ","Ноябрь","2021","1.92728609715E9","Supplier:ОАО «МОЭК»
+Amount:6.5331500472E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3.178871739E7
+
+Supplier:Мосводоканал
+Amount:2.1825934757E8
+
+Supplier:Ростелеком
+Amount:6.30344873E7
+
+Supplier:РСВО
+Amount:1.522435301E7
+
+Supplier:прочие
+Amount:3.9061941041E8
+
+Supplier:управляющие компании
+Amount:5.5504477675E8
+
+","1266502280",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","880","Северо-Восточный административный округ","Ноябрь","2021","2.19490834542E9","Supplier:ОАО «МОЭК»
+Amount:7.1892828033E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.187621222E7
+
+Supplier:Мосводоканал
+Amount:2.366952214E8
+
+Supplier:Ростелеком
+Amount:7.211857529E7
+
+Supplier:РСВО
+Amount:1.671853637E7
+
+Supplier:прочие
+Amount:4.6646356231E8
+
+Supplier:управляющие компании
+Amount:6.621079575E8
+
+","1266502307",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","881","Восточный административный округ","Ноябрь","2021","2.29385599273E9","Supplier:ОАО «МОЭК»
+Amount:8.2769329698E8
+
+Supplier:Мосэнергосбыт
+Amount:2
+
+Supplier:Газпром межрегионгаз Москва
+Amount:4.454715956E7
+
+Supplier:Мосводоканал
+Amount:2.5490578442E8
+
+Supplier:Ростелеком
+Amount:8.479915203E7
+
+Supplier:РСВО
+Amount:1.607374957E7
+
+Supplier:прочие
+Amount:3.9925003667E8
+
+Supplier:управляющие компании
+Amount:6.4591602809E8
+
+","1266504335",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","882","Юго-Восточный административный округ","Ноябрь","2021","2.25769150216E9","Supplier:ОАО «МОЭК»
+Amount:6.3601104263E8
+
+Supplier:Мосэнергосбыт
+Amount:3.290916949E7
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.824833485E7
+
+Supplier:Мосводоканал
+Amount:1.9891342919E8
+
+Supplier:Ростелеком
+Amount:4261975.86
+
+Supplier:РСВО
+Amount:1.465821221E7
+
+Supplier:прочие
+Amount:5.5784794099E8
+
+Supplier:управляющие компании
+Amount:7.8484139694E8
+
+","1266504463",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","883","Южный административный округ","Ноябрь","2021","2.47382842617E9","Supplier:ОАО «МОЭК»
+Amount:8.5798890976E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3.109491624E7
+
+Supplier:Мосводоканал
+Amount:2.5716328564E8
+
+Supplier:Ростелеком
+Amount:9.107216071E7
+
+Supplier:РСВО
+Amount:1.934035747E7
+
+Supplier:прочие
+Amount:5.1148788982E8
+
+Supplier:управляющие компании
+Amount:7
+
+","1266504602",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","884","Юго-Западный административный округ","Ноябрь","2021","2.32988580517E9","Supplier:ОАО «МОЭК»
+Amount:8.3413635478E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2
+
+Supplier:Мосводоканал
+Amount:2.3662764671E8
+
+Supplier:Ростелеком
+Amount:8.341152871E7
+
+Supplier:РСВО
+Amount:1.737695745E7
+
+Supplier:прочие
+Amount:4.7231790053E8
+
+Supplier:управляющие компании
+Amount:6.6564110573E8
+
+","1266504767",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","885","Западный административный округ","Ноябрь","2021","1.95013435391E9","Supplier:ОАО «МОЭК»
+Amount:637656321
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.399615902E7
+
+Supplier:Мосводоканал
+Amount:2
+
+Supplier:Ростелеком
+Amount:6.791100337E7
+
+Supplier:РСВО
+Amount:1.431826833E7
+
+Supplier:прочие
+Amount:4
+
+Supplier:управляющие компании
+Amount:5.8984984241E8
+
+","1266504859",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","891","Северный административный округ","Декабрь","2021","1.94661700852E9","Supplier:ОАО «МОЭК»
+Amount:6.7276597765E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3.179325506E7
+
+Supplier:Мосводоканал
+Amount:2.2210405663E8
+
+Supplier:Ростелеком
+Amount:6.296019515E7
+
+Supplier:РСВО
+Amount:1.515899955E7
+
+Supplier:прочие
+Amount:3.9143850823E8
+
+Supplier:управляющие компании
+Amount:5.5039601625E8
+
+","1508957374",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","892","Северо-Восточный административный округ","Декабрь","2021","2.19252852974E9","Supplier:ОАО «МОЭК»
+Amount:7.3991062297E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.185961199E7
+
+Supplier:Мосводоканал
+Amount:2.410953302E8
+
+Supplier:Ростелеком
+Amount:7.209714226E7
+
+Supplier:РСВО
+Amount:1.672232168E7
+
+Supplier:прочие
+Amount:4.3772762167E8
+
+Supplier:управляющие компании
+Amount:6.6311587897E8
+
+","1508975910",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","893","Восточный административный округ","Декабрь","2021","2.30557715828E9","Supplier:ОАО «МОЭК»
+Amount:8.4098323892E8
+
+Supplier:Мосэнергосбыт
+Amount:2.129912364E7
+
+Supplier:Газпром межрегионгаз Москва
+Amount:4.345523549E7
+
+Supplier:Мосводоканал
+Amount:2.5933501227E8
+
+Supplier:Ростелеком
+Amount:8.478640101E7
+
+Supplier:РСВО
+Amount:1.601681207E7
+
+Supplier:прочие
+Amount:3.9255889911E8
+
+Supplier:управляющие компании
+Amount:6.4714243577E8
+
+","1508975912",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","894","Юго-Восточный административный округ","Декабрь","2021","2.33580921444E9","Supplier:ОАО «МОЭК»
+Amount:6.5907599164E8
+
+Supplier:Мосэнергосбыт
+Amount:3.482669195E7
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.820885596E7
+
+Supplier:Мосводоканал
+Amount:2
+
+Supplier:Ростелеком
+Amount:4197285.67
+
+Supplier:РСВО
+Amount:1.457770747E7
+
+Supplier:прочие
+Amount:5.9800694637E8
+
+Supplier:управляющие компании
+Amount:7.8848900247E8
+
+","1508975922",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","895","Южный административный округ","Декабрь","2021","2.51768723023E9","Supplier:ОАО «МОЭК»
+Amount:8.8324005652E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:3.103632654E7
+
+Supplier:Мосводоканал
+Amount:2.6377215232E8
+
+Supplier:Ростелеком
+Amount:9
+
+Supplier:РСВО
+Amount:1.928066039E7
+
+Supplier:прочие
+Amount:5.2269820076E8
+
+Supplier:управляющие компании
+Amount:7
+
+","1508975934",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","896","Юго-Западный административный округ","Декабрь","2021","2.32664656503E9","Supplier:ОАО «МОЭК»
+Amount:8.5000972119E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2
+
+Supplier:Мосводоканал
+Amount:2.3832100764E8
+
+Supplier:Ростелеком
+Amount:8.353493911E7
+
+Supplier:РСВО
+Amount:1.727715051E7
+
+Supplier:прочие
+Amount:4.4993990787E8
+
+Supplier:управляющие компании
+Amount:6.672476811E8
+
+","1508975935",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","897","Западный административный округ","Декабрь","2021","1.98253891164E9","Supplier:ОАО «МОЭК»
+Amount:6.4712588786E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.39352301E7
+
+Supplier:Мосводоканал
+Amount:2.1008825892E8
+
+Supplier:Ростелеком
+Amount:6.790546477E7
+
+Supplier:РСВО
+Amount:1.424325101E7
+
+Supplier:прочие
+Amount:4.3844617687E8
+
+Supplier:управляющие компании
+Amount:5.8079464211E8
+
+","1508975936",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","626",NA,NA,NA,NA,NA,NA,"Центральный административный округ","Февраль","2020","1.34235978232E9","Supplier:ОАО «МОЭК»
+Amount:4.8092155336E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.273753614E7
+
+Supplier:Мосводоканал
+Amount:1.4391976339E8
+
+Supplier:Ростелеком
+Amount:3.820956733E7
+
+Supplier:РСВО
+Amount:9787637.63
+
+Supplier:прочие
+Amount:2.4352293909E8
+
+Supplier:управляющие компании
+Amount:4
+
+","1146138528",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","638",NA,NA,NA,NA,NA,NA,"Центральный административный округ","Март","2020","1.35430373214E9","Supplier:ОАО «МОЭК»
+Amount:4.9424484187E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.278724762E7
+
+Supplier:Мосводоканал
+Amount:1.4369453999E8
+
+Supplier:Ростелеком
+Amount:3.812869816E7
+
+Supplier:РСВО
+Amount:9750903.7
+
+Supplier:прочие
+Amount:2.438356193E8
+
+Supplier:управляющие компании
+Amount:4
+
+","1146138647",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","650",NA,NA,NA,NA,NA,NA,"Центральный административный округ","Апрель","2020","1.12890369278E9","Supplier:ОАО «МОЭК»
+Amount:4.9580769926E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.284614111E7
+
+Supplier:Мосводоканал
+Amount:1.424535621E8
+
+Supplier:Ростелеком
+Amount:3.805627108E7
+
+Supplier:РСВО
+Amount:1
+
+Supplier:прочие
+Amount:2.473930648E7
+
+Supplier:управляющие компании
+Amount:3.9474221771E8
+
+","1146138768",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85","662",NA,NA,NA,NA,NA,NA,"Центральный административный округ","Май","2020","1.1287873267E9","Supplier:ОАО «МОЭК»
+Amount:4.9655235836E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.281178596E7
+
+Supplier:Мосводоканал
+Amount:1.4241816631E8
+
+Supplier:Ростелеком
+Amount:3.802251683E7
+
+Supplier:РСВО
+Amount:1
+
+Supplier:прочие
+Amount:2.465148616E7
+
+Supplier:управляющие компании
+Amount:3.9410078415E8
+
+","1146139521",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","674",NA,NA,NA,NA,NA,NA,"Центральный административный округ","Июнь","2020","1.11218763266E9","Supplier:ОАО «МОЭК»
+Amount:4.8786034668E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.275546637E7
+
+Supplier:Мосводоканал
+Amount:1.3597860915E8
+
+Supplier:Ростелеком
+Amount:3.812371583E7
+
+Supplier:РСВО
+Amount:1
+
+Supplier:прочие
+Amount:2.498326382E7
+
+Supplier:управляющие компании
+Amount:3.9225591692E8
+
+","1146140400",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87","686",NA,NA,NA,NA,NA,NA,"Центральный административный округ","Июль","2020","1.36109596383E9","Supplier:ОАО «МОЭК»
+Amount:5
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.276457241E7
+
+Supplier:Мосводоканал
+Amount:1.4361675669E8
+
+Supplier:Ростелеком
+Amount:3.797588956E7
+
+Supplier:РСВО
+Amount:1
+
+Supplier:прочие
+Amount:2.4233249106E8
+
+Supplier:управляющие компании
+Amount:3.9994190854E8
+
+","1146140678",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88","698",NA,NA,NA,NA,NA,NA,"Центральный административный округ","Август","2020","1348579151","Supplier:ОАО «МОЭК»
+Amount:4.8980359399E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.330738137E7
+
+Supplier:Мосводоканал
+Amount:1.4405646135E8
+
+Supplier:Ростелеком
+Amount:3.787144041E7
+
+Supplier:РСВО
+Amount:1
+
+Supplier:прочие
+Amount:2.4438334239E8
+
+Supplier:управляющие компании
+Amount:3.9898722059E8
+
+","1146146681",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"95",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"102",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"103",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"106",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"107",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"108",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"109",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"111",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"114",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"115",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"117",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"119",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"120",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"125",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"126",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"130",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"131",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"137",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"138",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"139",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"141",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"143",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"145",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"146",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"148",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"149",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"150",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"152",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"153",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"154",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"155",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"156",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"157",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"158",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"159",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"160",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"163","338",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Февраль","2019","1318968869","Supplier:ОАО «МОЭК»
+Amount:4.8044303498E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.248898126E7
+
+Supplier:Мосводоканал
+Amount:1.2803020304E8
+
+Supplier:Ростелеком
+Amount:3.645687247E7
+
+Supplier:РСВО
+Amount:9843942.87
+
+Supplier:управляющие компании
+Amount:4
+
+Supplier:прочие
+Amount:2.3402676903E8
+
+","915889876",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164","481",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Январь","2019","1282372753","Supplier:ОАО «МОЭК»
+Amount:445753586
+
+Supplier:Газпром межрегионгаз Москва
+Amount:22497881
+
+Supplier:Мосводоканал
+Amount:124087812
+
+Supplier:Ростелеком
+Amount:36452349
+
+Supplier:РСВО
+Amount:9881483
+
+Supplier:прочие
+Amount:231963358
+
+Supplier:управляющие компании
+Amount:411736282
+
+","925621173",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"165","493",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Апрель","2019","1.37624963296E9","Supplier:ОАО «МОЭК»
+Amount:4.659159403E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.247770663E7
+
+Supplier:Мосводоканал
+Amount:1.2574350879E8
+
+Supplier:Ростелеком
+Amount:3.621785843E7
+
+Supplier:РСВО
+Amount:1
+
+Supplier:прочие
+Amount:2.9150241336E8
+
+Supplier:управляющие компании
+Amount:424181164
+
+","925697446",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"166","505",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Март","2019","1300946634","Supplier:ОАО «МОЭК»
+Amount:460663646
+
+Supplier:Газпром межрегионгаз Москва
+Amount:22525292
+
+Supplier:Мосводоканал
+Amount:125554621
+
+Supplier:Ростелеком
+Amount:36345852
+
+Supplier:РСВО
+Amount:9785196
+
+Supplier:прочие
+Amount:246487829
+
+Supplier:управляющие компании
+Amount:39584195
+
+","925702684",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167","518",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Май","2019","1320926822","Supplier:ОАО «МОЭК»
+Amount:469741967
+
+Supplier:Газпром межрегионгаз Москва
+Amount:22157704
+
+Supplier:Мосводоканал
+Amount:129554213
+
+Supplier:Ростелеком
+Amount:36114811
+
+Supplier:РСВО
+Amount:10141542
+
+Supplier:прочие
+Amount:259373473
+
+Supplier:управляющие компании
+Amount:393483109
+
+","930605120",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"168","530",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Июль","2019","1294459975","Supplier:ОАО «МОЭК»
+Amount:461898167
+
+Supplier:Газпром межрегионгаз Москва
+Amount:22487328
+
+Supplier:Мосводоканал
+Amount:122489753
+
+Supplier:Ростелеком
+Amount:35981441
+
+Supplier:РСВО
+Amount:10023623
+
+Supplier:прочие
+Amount:252699096
+
+Supplier:управляющие компании
+Amount:388880563
+
+","1006305717",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"169","542",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Июнь","2019","1310177657","Supplier:ОАО «МОЭК»
+Amount:462438253
+
+","1006475393",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"170","554",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Август","2019","1289896855","Supplier:ОАО «МОЭК»
+Amount:463252340
+
+Supplier:Газпром межрегионгаз Москва
+Amount:23160169
+
+Supplier:Мосводоканал
+Amount:124752228
+
+Supplier:Ростелеком
+Amount:36072060
+
+Supplier:РСВО
+Amount:10006179
+
+Supplier:управляющие компании
+Amount:417865054
+
+Supplier:прочие
+Amount:241788821
+
+","1023571758",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"171","578",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Октябрь","2019","1322195308","Supplier:ОАО «МОЭК»
+Amount:497618104
+
+Supplier:Газпром межрегионгаз Москва
+Amount:22832796
+
+Supplier:Мосводоканал
+Amount:135359286
+
+Supplier:Ростелеком
+Amount:36230608
+
+Supplier:РСВО
+Amount:9986494
+
+Supplier:прочие
+Amount:208686095
+
+Supplier:управляющие компании
+Amount:259172944
+
+","1023597034",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172","590",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Ноябрь","2019","1338087340","Supplier:ОАО «МОЭК»
+Amount:508016823
+
+Supplier:Газпром межрегионгаз Москва
+Amount:23003322
+
+Supplier:Мосводоканал
+Amount:138992418
+
+Supplier:Ростелеком
+Amount:36208213
+
+Supplier:РСВО
+Amount:9975654
+
+Supplier:прочие
+Amount:234916101
+
+Supplier:управляющие компании
+Amount:386974807
+
+","1023598321",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"173","602",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Декабрь","2019","1.34601342363E9","Supplier:ОАО «МОЭК»
+Amount:5.148744789E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.28639069E7
+
+Supplier:Мосводоканал
+Amount:1.4090185176E8
+
+Supplier:Ростелеком
+Amount:3.602622152E7
+
+Supplier:РСВО
+Amount:9888475.53
+
+Supplier:прочие
+Amount:2.3605056607E8
+
+Supplier:управляющие компании
+Amount:3.8540792295E8
+
+","1146138315",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"174","302",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Май","2018","1.24709934901E9","Supplier:ОАО «МОЭК»
+Amount:4.2821696638E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.147709154E7
+
+Supplier:Мосводоканал
+Amount:1.2076325695E8
+
+Supplier:Ростелеком
+Amount:3.413624115E7
+
+Supplier:РСВО
+Amount:1
+
+Supplier:управляющие компании
+Amount:4.1474595964E8
+
+Supplier:прочие
+Amount:2.1771172855E8
+
+","885813824",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175","290",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Февраль","2018","1.24752302493E9","Supplier:ОАО «МОЭК»
+Amount:4.3156523592E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.132718924E7
+
+Supplier:Мосводоканал
+Amount:1.3368117086E8
+
+Supplier:Ростелеком
+Amount:3.409039997E7
+
+Supplier:РСВО
+Amount:9585762.55
+
+Supplier:управляющие компании
+Amount:4
+
+Supplier:прочие
+Amount:2.1688665411E8
+
+","885817661",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176","266",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Январь","2018","1.25593240709E9","Supplier:ОАО «МОЭК»
+Amount:4.3424734867E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.126232577E7
+
+Supplier:Мосводоканал
+Amount:1.3245184128E8
+
+Supplier:Ростелеком
+Amount:3.369905345E7
+
+Supplier:РСВО
+Amount:9611906.68
+
+Supplier:управляющие компании
+Amount:4
+
+Supplier:прочие
+Amount:2.1685632409E8
+
+","885818212",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"177","362",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Ноябрь","2018","1.2499870148E9","Supplier:ОАО «МОЭК»
+Amount:4.3097430009E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.220972709E7
+
+Supplier:Мосводоканал
+Amount:1.2505267751E8
+
+Supplier:Ростелеком
+Amount:3.365496635E7
+
+Supplier:РСВО
+Amount:9812796.72
+
+Supplier:прочие
+Amount:2.1765054333E8
+
+Supplier:управляющие компании
+Amount:4.1063200371E8
+
+","919119829",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"178","398",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Декабрь","2018","1250072335","Supplier:ОАО «МОЭК»
+Amount:474404063
+
+Supplier:Газпром межрегионгаз Москва
+Amount:21331906
+
+Supplier:управляющие компании
+Amount:359088335
+
+Supplier:прочие
+Amount:218059050
+
+Supplier:Мосводоканал
+Amount:135244190
+
+Supplier:Ростелеком
+Amount:32239369
+
+Supplier:РСВО
+Amount:9705419
+
+","920164354",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"179","446",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Апрель","2018","1242811612","Supplier:ОАО «МОЭК»
+Amount:427318400
+
+Supplier:Газпром межрегионгаз Москва
+Amount:21369511
+
+Supplier:Мосводоканал
+Amount:119318542
+
+Supplier:Ростелеком
+Amount:34237500
+
+Supplier:РСВО
+Amount:10098880
+
+Supplier:прочие
+Amount:218142011
+
+Supplier:управляющие компании
+Amount:412326764
+
+","920181845",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"180","109",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Январь","2017","1.1039155455E9","Supplier:ОАО «МОЭК»
+Amount:3.991370292E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:1.91115255E7
+
+Supplier:Мосводоканал
+Amount:1
+
+Supplier:Ростелеком
+Amount:3.24115967E7
+
+Supplier:РСВО
+Amount:7971411.9
+
+Supplier:управляющие компании
+Amount:3.465947939E8
+
+Supplier:прочие
+Amount:1.888855503E8
+
+","612938960",NA,NA,NA,NA,NA,NA
+"181","121",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Февраль","2017","1.12902393508E9","Supplier:ОАО «МОЭК»
+Amount:4.1778333039E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:1.90627893E7
+
+Supplier:Мосводоканал
+Amount:1.1118957768E8
+
+Supplier:Ростелеком
+Amount:3.235883836E7
+
+Supplier:РСВО
+Amount:8997614.32
+
+Supplier:управляющие компании
+Amount:3.4956093621E8
+
+Supplier:прочие
+Amount:1.9007084882E8
+
+","612943334",NA,NA,NA,NA,NA,NA
+"182","133",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Март","2017","1.11185381194E9","Supplier:ОАО «МОЭК»
+Amount:4.1340835479E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:1.904782367E7
+
+Supplier:Мосводоканал
+Amount:1
+
+Supplier:Ростелеком
+Amount:3.227504473E7
+
+Supplier:РСВО
+Amount:8975428.37
+
+Supplier:управляющие компании
+Amount:3.4088358108E8
+
+Supplier:прочие
+Amount:1.8810983603E8
+
+","612947382",NA,NA,NA,NA,NA,NA
+"183","145",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Апрель","2017","1.11532081567E9","Supplier:ОАО «МОЭК»
+Amount:4.1447525624E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:1.910680467E7
+
+Supplier:Мосводоканал
+Amount:1.1134421727E8
+
+Supplier:Ростелеком
+Amount:3.21968536E7
+
+Supplier:РСВО
+Amount:8929211.79
+
+Supplier:управляющие компании
+Amount:3.4084189129E8
+
+Supplier:прочие
+Amount:1.8842658081E8
+
+","612957874",NA,NA,NA,NA,NA,NA
+"184","169",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Июнь","2017","1.13130944543E9","Supplier:ОАО «МОЭК»
+Amount:4.2424533225E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2
+
+Supplier:Мосводоканал
+Amount:1.1872646321E8
+
+Supplier:Ростелеком
+Amount:3.210994598E7
+
+Supplier:РСВО
+Amount:8895609.8
+
+Supplier:управляющие компании
+Amount:3.2836574647E8
+
+Supplier:прочие
+Amount:1.9851309863E8
+
+","613114399",NA,NA,NA,NA,NA,NA
+"185","182",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Июль","2017","1.19721554372E9","Supplier:ОАО «МОЭК»
+Amount:4.3660807988E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.124645373E7
+
+Supplier:Мосводоканал
+Amount:1.225741666E8
+
+Supplier:Ростелеком
+Amount:3.207438665E7
+
+Supplier:РСВО
+Amount:9851566.41
+
+Supplier:управляющие компании
+Amount:3.564173392E8
+
+Supplier:прочие
+Amount:2.1844355125E8
+
+","885810666",NA,NA,NA,NA,NA,NA
+"186","350",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Сентябрь","2017","1.21203722666E9","Supplier:ОАО «МОЭК»
+Amount:4.4739120368E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:2.135291087E7
+
+Supplier:Мосводоканал
+Amount:1.2949360218E8
+
+Supplier:Ростелеком
+Amount:3.206910339E7
+
+Supplier:РСВО
+Amount:9795961.1
+
+Supplier:управляющие компании
+Amount:3.5602963197E8
+
+Supplier:прочие
+Amount:1.6977058075E8
+
+","918727981",NA,NA,NA,NA,NA,NA
+"187","410",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Ноябрь","2017","1248661932","Supplier:ОАО «МОЭК»
+Amount:471716242
+
+Supplier:Газпром межрегионгаз Москва
+Amount:21307539
+
+Supplier:Мосводоканал
+Amount:137027832
+
+Supplier:Ростелеком
+Amount:31951002
+
+Supplier:РСВО
+Amount:9854130
+
+Supplier:прочие
+Amount:217695997
+
+Supplier:управляющие компании
+Amount:359109186
+
+","920170766",NA,NA,NA,NA,NA,NA
+"188","422",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Октябрь","2017","1233226017","Supplier:ОАО «МОЭК»
+Amount:460879905
+
+Supplier:Газпром межрегионгаз Москва
+Amount:21273301
+
+Supplier:Мосводоканал
+Amount:135964175
+
+Supplier:Ростелеком
+Amount:31936775
+
+Supplier:РСВО
+Amount:9751391
+
+Supplier:прочие
+Amount:216745781
+
+Supplier:управляющие компании
+Amount:356674685
+
+","920180904",NA,NA,NA,NA,NA,NA
+"189","434",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Август","2017","1205424733","Supplier:ОАО «МОЭК»
+Amount:444597452
+
+Supplier:Газпром межрегионгаз Москва
+Amount:21305302
+
+Supplier:Мосводоканал
+Amount:126487263
+
+Supplier:Ростелеком
+Amount:32050588
+
+Supplier:РСВО
+Amount:9815999
+
+Supplier:прочие
+Amount:216467105
+
+Supplier:управляющие компании
+Amount:354701020
+
+","920181564",NA,NA,NA,NA,NA,NA
+"190","458",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Декабрь","2017","1258380754","Supplier:ОАО «МОЭК»
+Amount:437728930
+
+Supplier:Газпром межрегионгаз Москва
+Amount:22162609
+
+Supplier:Мосводоканал
+Amount:125363544
+
+Supplier:Ростелеком
+Amount:34232673
+
+Supplier:РСВО
+Amount:9758048
+
+Supplier:прочие
+Amount:217332441
+
+Supplier:управляющие компании
+Amount:41180505
+
+","920181901",NA,NA,NA,NA,NA,NA
+"191","1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Апрель","2016","1033089057","Supplier:ОАО «МОЭК»
+Amount:3.547077304E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:1.895774299E7
+
+Supplier:Мосводоканал
+Amount:1
+
+Supplier:управляющие компании
+Amount:3.262499188E8
+
+Supplier:Ростелеком
+Amount:3.124191506E7
+
+Supplier:РСВО
+Amount:8403563.2
+
+Supplier:прочие
+Amount:1.871844306E8
+
+","171671233"
+"192","13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Май","2016","1046211200","Supplier:ОАО «МОЭК»
+Amount:360724814
+
+Supplier:Газпром межрегионгаз Москва
+Amount:19218943
+
+Supplier:Мосводоканал
+Amount:108936326
+
+Supplier:управляющие компании
+Amount:327835177
+
+Supplier:Ростелеком
+Amount:31327001
+
+Supplier:РСВО
+Amount:8473358
+
+Supplier:прочие
+Amount:189695581
+
+","171671245"
+"193","25",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Июнь","2016","1035468984","Supplier:ОАО «МОЭК»
+Amount:354354753
+
+Supplier:Газпром межрегионгаз Москва
+Amount:19157105
+
+Supplier:Мосводоканал
+Amount:107730602
+
+Supplier:управляющие компании
+Amount:325142893
+
+Supplier:Ростелеком
+Amount:31415891
+
+Supplier:РСВО
+Amount:8364780
+
+Supplier:прочие
+Amount:189302960
+
+","171671257"
+"194","49",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Август","2016","1029563915","Supplier:ОАО «МОЭК»
+Amount:3.485051833E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:1.882323504E7
+
+Supplier:Мосводоканал
+Amount:1
+
+Supplier:управляющие компании
+Amount:5
+
+Supplier:Ростелеком
+Amount:3
+
+Supplier:РСВО
+Amount:8016069.9
+
+Supplier:прочие
+Amount:1.309466906E7
+
+","278939764"
+"195","61",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Сентябрь","2016","1042438615","Supplier:ОАО «МОЭК»
+Amount:3.5107642476E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:1.912694336E7
+
+Supplier:Мосводоканал
+Amount:1
+
+Supplier:управляющие компании
+Amount:2
+
+Supplier:Ростелеком
+Amount:3
+
+Supplier:РСВО
+Amount:8081575.73
+
+Supplier:прочие
+Amount:3.2513493623E8
+
+","282191445"
+"196","73",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Октябрь","2016","1065523860","Supplier:ОАО «МОЭК»
+Amount:3.6561924814E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:1.908807964E7
+
+Supplier:Мосводоканал
+Amount:1.1267409636E8
+
+Supplier:управляющие компании
+Amount:3.401180483E8
+
+Supplier:Ростелеком
+Amount:3
+
+Supplier:РСВО
+Amount:8041555
+
+Supplier:прочие
+Amount:1.8960328667E8
+
+","282192211"
+"197","85",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Ноябрь","2016","1072033883","Supplier:ОАО «МОЭК»
+Amount:3.7440364993E8
+
+Supplier:Газпром межрегионгаз Москва
+Amount:1.907128351E7
+
+Supplier:Мосводоканал
+Amount:1.1070528976E8
+
+Supplier:управляющие компании
+Amount:3.4013120837E8
+
+Supplier:Ростелеком
+Amount:3
+
+Supplier:РСВО
+Amount:8011322.41
+
+Supplier:прочие
+Amount:1.8931975334E8
+
+","282196211"
+"198","97",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Центральный административный округ","Декабрь","2016","1083268627","Supplier:ОАО «МОЭК»
+Amount:379412594
+
+Supplier:Мосводоканал
+Amount:112681286
+
+Supplier:Газпром межрегионгаз Москва
+Amount:19066742
+
+Supplier:Ростелеком
+Amount:30331133
+
+Supplier:РСВО
+Amount:8028920
+
+Supplier:управляющие компании
+Amount:346006407
+
+Supplier:прочие
+Amount:187741544
+
+","284597913"
